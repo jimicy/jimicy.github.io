@@ -9,7 +9,7 @@
 - name: Augmeal
   description:
     - "Uses Unity, Vuforia SDK and Android SDK"
-    - "Augmented reality android app to view food"
+    - "Augmented reality android app to preview food"
     - "Collaborated with student teammates at Hackernest Construct Hackathon"
   image: http://i.imgur.com/UVF4jTk.png
   link: https://github.com/Jimicy/augmeal
@@ -21,6 +21,14 @@
     - "Includes a one player mode with keypad, timer and menu button for options"
   image: http://i.imgur.com/db7nHk9.jpg
   link: https://github.com/Jimicy/Android-ArithmeticAAL
+
+- name: Java Super Paint Application
+  description:
+    - "A Java paint program made using swing classes"
+    - "Used OOP principles to abstract various shapes and event handling for drawing"
+    - "Includes various shapes,filled or unfilled option, undo & redo button and different colors"
+  image: http://i.imgur.com/6gzUfxo.png
+  link: https://github.com/Jimicy/Java-SuperPaint-Application
 
 - name: Python-ZombieShooter
   description:
