@@ -7,18 +7,18 @@ highlight_color: '#3498db'
 social:
   github: jimicy
   #bitbucket: philipj
-  hacker_news: jimicy
+  # hacker_news: jimicy
   #stackexchange: 348619
   #stackoverflow: 348619
   twitter: jim_icy
   #facebook: zuck
   #tumblr: animalygifs
-  #linkedin: philipjagielski
+  linkedin: jimicy
   #gplus: 110552447039675960964
   #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
 
 # "Hi, I'm _______"
-name: Jimmy Wang
+name: Jimmy
 email: jimmyw22@gmail.com
 tagline: "weak opinions, strongly held"
 
