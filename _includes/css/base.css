@@ -130,6 +130,12 @@
 		height: auto;
 	}
 
+	.project-img {
+		max-width: 200px;
+		width: 30%;
+		margin-left: 0;
+	}
+
 
 /* #Buttons
 ================================================== */

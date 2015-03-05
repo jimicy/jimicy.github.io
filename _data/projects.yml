@@ -1,0 +1,29 @@
+- name: Amethyst
+  description:
+    - "Jekyll template to quickly create beautiful, consistent text based programming workshops"
+    - "Create workshops in markdown with extra styling features for errors & tips"
+    - "Collaborated with student teammates at HackTheNorth"
+  image: https://www.dropbox.com/s/qkfzlpb7pex849y/Screenshot%202015-03-05%2001.12.06.png?dl=1
+  link: https://github.com/hackitmac/learn
+
+- name: Augmeal
+  description:
+    - "Uses Unity, Vuforia SDK and Android SDK"
+    - "Augmented reality android app to view food"
+    - "Collaborated with student teammates at Hackernest Construct Hackathon"
+  image: http://i.imgur.com/UVF4jTk.png
+  link: https://github.com/Jimicy/augmeal
+
+- name: Android Artithmetic Game
+  description:
+    - "An Artithmetic learning game in android."
+    - "Utilized eclipse along with multiple classes & OOP principles, which formed the logic of the game."
+    - "Includes a one player mode with keypad, timer and menu button for options"
+  image: http://i.imgur.com/db7nHk9.jpg
+  link: https://github.com/Jimicy/Android-ArithmeticAAL
+
+- name: Python-ZombieShooter
+  description:
+    - "Python Game summative using pygame. A top down zombie shooter"
+  image: http://i.imgur.com/1wH5uKN.png
+  link: https://github.com/Jimicy/Python-ZombieShooter
