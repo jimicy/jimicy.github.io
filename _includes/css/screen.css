@@ -80,8 +80,15 @@ ul.posts {
 
 ul.posts li {
   line-height: 22px;
-  font-size: 16px;
+  /*font-size: 16px;*/
   margin-bottom: 0px;
+}
+
+#project-posts img {
+  max-width: 300px;
+  min-width: 200px;
+  width: 70%;
+  margin-left: 0;
 }
 
 ul.posts span {

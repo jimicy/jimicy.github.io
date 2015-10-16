@@ -1,17 +1,34 @@
-- name: Amethyst
+- name: TripFlow
   description:
-    - "Jekyll template to quickly create beautiful, consistent text based programming workshops"
-    - "Create workshops in markdown with extra styling features for errors & tips"
-    - "Collaborated with student teammates at HackTheNorth"
-  image: https://www.dropbox.com/s/qkfzlpb7pex849y/Screenshot%202015-03-05%2001.12.06.png?dl=1
-  link: https://github.com/hackitmac/learn
+    - "TripFlow allows locals to go on it and it will query their Facebook events, social media to list points of interest on a map."
+    - "You then select points of interest to form a travel guide."
+    - "It differs from existing travel apps in that, TripFlow is more about events and what locals would do in the city vs tourist attractions"
+  image: http://i.imgur.com/3dxy1Wg.jpg
+  link: http://devpost.com/software/tripflow
+
+- name: VidulyNoted
+  description:
+    - "Best Web Dev Hack at MHacks 6"
+    - "Annotate recorded lectures/meetings with collaborative notes mapped to different points in time"
+    - "Used firebase for real time syncing & editing of notes"
+    - "Primarily a frontend application with javascript, HMTL/CSS, Material Design Framework"
+  image: http://i.imgur.com/0Jx4lL1.png
+  link: http://devpost.com/software/rebdbully-frontend
+
+# - name: Amethyst
+#   description:
+#     - "Jekyll template to quickly create beautiful, consistent text based programming workshops"
+#     - "Create workshops in markdown with extra styling features for errors & tips"
+#     - "Collaborated with student teammates at HackTheNorth"
+#   image: https://www.dropbox.com/s/qkfzlpb7pex849y/Screenshot%202015-03-05%2001.12.06.png?dl=1
+#   link: https://github.com/hackitmac/learn
 
 - name: Augmeal
   description:
     - "Uses Unity, Vuforia SDK and Android SDK"
     - "Augmented reality android app to preview food"
     - "Collaborated with student teammates at Hackernest Construct Hackathon"
-  image: http://i.imgur.com/UVF4jTk.png
+  image: http://i.imgur.com/4ML0STM.jpg
   link: https://github.com/Jimicy/augmeal
 
 - name: Android Artithmetic Game
